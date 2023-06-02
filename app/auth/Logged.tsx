@@ -12,7 +12,7 @@ export default function Logged({ image }: User) {
     <div>
       <li className=" flex items-center gap-5">
         <button
-          className="transition-all duration-[300ms] ease-out bg-red-600 px-2 py-1 rounded text-white font-medium focus:ring-2 focus:ring-red-800"
+          className="transition-all duration-[300ms] ease-out bg-teal-950 px-2 py-1 rounded text-white font-medium focus:ring-2 focus:ring-red-800"
           onClick={() => signOut()}
         >
           Sign Out
