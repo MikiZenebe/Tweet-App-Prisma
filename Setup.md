@@ -4,3 +4,4 @@
 2. Create project on railway
 3. Setup NextAuth, Install prisma adaptar
 4. Setup google provider with goole cloud
+5. Add the auth model to prisma
